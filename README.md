@@ -1,8 +1,7 @@
-## Stanley Shikwambi - Computer Science student and freelance Software Developer
+## Stanley Shikwambi - Computer Science student
 
-You can use the [editor on GitHub](https://github.com/shikwambipolly/stanshik.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Twitter](https://twitter.com/stan_shik)
+[Linkedin](https://www.linkedin.com/in/stanley-shikwambi-94b584168/)
 
 ### Markdown
 
