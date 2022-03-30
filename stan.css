@@ -1,0 +1,133 @@
+html {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    cursor: default;
+}
+
+body {
+    background-color: #d9d9d9;
+}
+
+#brand {
+    margin-left: 3%;
+    padding-top: 0;
+    font-weight: 500;
+}
+
+#picture {
+    border-radius: 20px;
+    border-color: #d9d9d9;
+    border-style: solid;
+}
+
+#picture-div {
+    padding-top: 5%;
+    padding-right: 12%;
+    padding-left: 12%;
+}
+
+.signs {
+    color: #780000;
+    font-weight: 800;
+}
+
+#download-btn {
+    margin-top: 2%;
+    font-weight: 600;
+    padding: 2% 13%;
+    background-color: #780000;
+    border-color: #780000;
+}
+
+#download-btn:hover {
+    padding: 2% 13%;
+    background-color: #d9d9d9;
+    border-color: #780000;
+    color: black;
+}
+
+#download-btn:active {
+    padding: 2% 13%;
+    background-color: #780000;
+    border-color: #780000;
+    box-shadow: none;
+}
+
+#download-btn:focus {
+    box-shadow: none;
+}
+
+#icons img {
+    margin-left: 7px;
+    margin-right: 7px;
+    width: 5%;
+    height: 5%;
+}
+
+#icons img:hover {
+    margin-left: 7px;
+    margin-right: 7px;
+    width: 5%;
+    height: 5%;
+    cursor: pointer;
+}
+
+@media (min-width: 620px) {
+
+        #content-div {
+        padding-top: 5%;
+        padding-left: 13%;
+    }
+
+        h1 {
+        font-weight: 700;
+        font-size: 400%;
+    }
+
+        h2 {
+        font-weight: 450;
+        font-size: 200%;
+    }
+}
+
+@media (max-width: 620px) {
+
+        #content-div {
+        padding-top: 20%;
+    }
+
+        h1 {
+        font-weight: 700;
+        font-size: 200%;
+    }
+
+        h2 {
+        font-weight: 400;
+        font-size: 150%;
+    }
+
+}
+
+@media only screen and (min-width: 620px) {
+
+        #nav-div {
+        padding-left: 24%;
+    }
+
+}
+
+#navs {
+    align-content: left;
+    align-content: flex-start;
+    align-items: flex-start;
+    align-self: flex-start;
+    justify-content: flex-start;
+    justify-content: left;
+    justify-items: left;
+    justify-items: flex-start;
+}
+
+#navs a:hover {
+    color: white;
+}
+
